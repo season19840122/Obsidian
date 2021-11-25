@@ -1,3 +1,8 @@
+---
+created: 20211125 16:51
+tags: [前端]
+---
+
 # JavaScript 侦测手机浏览器的五种方法
 
 ### 1. navigator.userAgent
